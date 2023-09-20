@@ -6,3 +6,9 @@
 ```
 <p>A solar filter dimmed true-color image of the visible photosphere of the Sun</p>
 ```
+
+
+- [x] Complete the project proposal
+- [x] Prepare presentation slides
+- [ ] Send out meeting invitations
+- [ ] Review project timeline
