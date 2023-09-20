@@ -12,3 +12,7 @@
 - [x] Prepare presentation slides
 - [ ] Send out meeting invitations
 - [ ] Review project timeline
+
+- [ ] Activate GitLab Pages
+- [ ] Plan the structure of my resume
+- [ ] Create an introduction to showcase myself
